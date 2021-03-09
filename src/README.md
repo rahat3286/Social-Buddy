@@ -1,1 +1,1 @@
-# https://quizzical-dubinsky-d41210.netlify.app/
+https://quizzical-dubinsky-d41210.netlify.app/
